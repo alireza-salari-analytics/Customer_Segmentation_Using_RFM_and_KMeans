@@ -14,7 +14,7 @@ This project applies **RFM analysis** and **KMeans clustering** to identify cust
 ## How to Run
 
 1. Clone the repo
-3. Run the notebook(s)
+3. Run the notebook
 
 ## Example Outputs
 
