@@ -31,7 +31,7 @@ This project applies **RFM analysis** and **KMeans clustering** to identify cust
 ## Author
 
 Alireza Salari 
-alirezasa8110@gmail.com
+alireza.salari.analytics@gmail.com
 
 ## License
 
